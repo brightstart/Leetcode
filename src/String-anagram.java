@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main {
+public class StringAnagram {
 
     public boolean identifyAnagrams(String str1, String str2){
         if(str1.equals(str2))
