@@ -19,7 +19,7 @@ public class StringAnagram {
 
     public static void main(String[] args) {
         System.out.println("Listen & silence");
-        Main m = new Main();
+        StringAnagram m = new StringAnagram();
         System.out.println(m.identifyAnagrams("Listen", "silence"));
 
         System.out.println("Listen & silent");
